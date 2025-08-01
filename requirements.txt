@@ -4,6 +4,9 @@ plotly>=5.10
 openai>=1.3
 xlsxwriter>=3.0
 
+# Adicional para carregar .env
+python-dotenv>=1.0
+
+# Para usar Mistral via OpenRouter
 mistralai>=1.8.0
 openrouter>=1.0.0
-
